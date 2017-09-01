@@ -1,0 +1,32 @@
+#include <iostream>
+
+#include <cmath>
+
+using namespace std;
+
+
+int main() 
+{
+int l;
+
+int b;
+
+int area;
+
+cout<<"Enter the length";
+
+cin>>l;
+
+cout<<"Enter the breadth";
+
+cin>>b;
+
+area=l*b;
+
+cout<<"\nArea ="<<area;
+
+
+	// your code goes here
+	
+return 0;
+}

@@ -1,0 +1,42 @@
+#include<iostream>
+
+#include <cmath>
+using namespace std;
+
+
+int main() 
+{
+int x;
+
+int y;
+
+int result;
+
+cout<<"Enter the first number";
+
+cin>>x;
+
+cout<<"Enter the second number";
+
+cin>>y;
+
+result=x+y;
+
+cout<<"\nAdditon ="<<result;
+
+result=x-y;
+
+cout<<"\nSubtration ="<<result;
+
+result=x*y;
+
+cout<<"\nMultiplication ="<<result;
+
+result=x/y;
+
+cout<<"\nDivision ="<<result;
+
+// your code goes here
+	
+return 0;
+}

@@ -1,0 +1,32 @@
+#include <iostream>
+
+#include <cmath>
+
+using namespace std;
+
+
+int main() 
+{
+int l;
+
+int b;
+
+int peri;
+
+cout<<"Enter the length";
+
+cin>>l;
+
+cout<<"Enter the breadth";
+
+cin>>b;
+
+peri=2*l+2*b;
+
+cout<<"\nPerimeter ="<<peri;
+
+
+	// your code goes here
+	
+return 0;
+}
